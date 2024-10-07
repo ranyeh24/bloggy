@@ -1,1 +1,1 @@
-Bloggy - Tailwind CSS Template for Blog
+# Bloggy - Tailwind CSS Template for Blog
